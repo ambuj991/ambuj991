@@ -1,6 +1,6 @@
 👋 Hello !! I'm Ambuj Hakhu
 
-I am a student at NMIMS and I'd love to code and learn new things
+I am a student at NMIMS and I'd love to code and learn new things <br/>
 Did you know…?
 
 👨‍💻 Programming and building models is my passion            <br/>
