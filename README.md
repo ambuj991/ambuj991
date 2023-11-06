@@ -1,12 +1,18 @@
 👋 Hello !! I'm Ambuj Hakhu
 
-I am a student at NMIMS and I'd love to code and learn new things <br/>
-Did you know…?
+I am a Masters in Computer Science student at Univesity of Cincinnati
 
-👨‍💻 Programming and building models is my passion            <br/>
-📖 Reading makes me think while keeping me curious.         <br/>
-✈️ I love traveling; it's a good excuse for taking pictures.   <br/>
-🎮 Video games are art; I like playing and creating them.   <br/>
-🏃 Swimming and running keep my body and mind balanced.   <br/>
+🚀 Software Engineer | Problem Solver | Full-Stack Developer | Cloud Enthusiast
 
+Software Engineer with a strong background in Python, C++, Java, and JavaScript. I specialize in creating efficient, scalable, and innovative software solutions. I excel at problem-solving and thrive in challenging environments.
 
+Key Skills:
+- ✨ Programming Languages: Python, C++, Java, JavaScript
+
+- ☁️ Cloud Computing: Proficient in cloud technologies, including AWS, Azure, and Google Cloud Platform, enabling seamless deployment and scaling of applications.
+
+- 🧠 Data Structures & Algorithms: In-depth knowledge of data structures and algorithms, ensuring optimal solutions for complex problems.
+
+- 💻 Full-Stack Development: Skilled in both front-end and back-end development, creating responsive and user-friendly interfaces.
+
+- 🛠️ Development Tools: Proficient in various development tools and frameworks, enhancing productivity and code quality.
