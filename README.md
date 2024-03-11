@@ -32,7 +32,7 @@ Here are some of the projects I've been working on:
 
 - [BCCD Object Detection using TensorFlow](#)
 - [Object detection for Autonomous Vehicles](#)
-- [UNet for Carvana Masking Task](#)
+- [Hand Written digits recognition using neural netwroks](https://github.com/ambuj991/Handwritten-digits-classification-using-neural-network)
 - [UNet++ for Carvana Masking Task](#)
 
 ### Autonomous Vehicles
