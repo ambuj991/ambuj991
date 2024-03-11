@@ -31,6 +31,7 @@ Here are some of the projects I've been working on:
 ### Object Detection & Image Segmentation
 
 - [BCCD Object Detection using TensorFlow](#)
+- [Unbalanced Dockship Image Classification](https://github.com/ambuj991/Dockship-Image-Classification/tree/main)
 - [Object detection for Autonomous Vehicles](#)
 - [Hand Written digits recognition using neural netwroks](https://github.com/ambuj991/Handwritten-digits-classification-using-neural-network)
 - [UNet++ for Carvana Masking Task](#)
