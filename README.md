@@ -44,9 +44,9 @@ Here are some of the projects I've been working on:
 
 ### Natural Language Processing & Reinforcement Learning
 
-- [Sentiment Analysis using NLP Techniques](#)
+- [Sentiment Analysis using NLP Techniques](https://github.com/ambuj991/Sentiment-Analysis-Model)
 - [Stock Market Prediction](#)
-- [GANs](#)
+- [GPT3/ChatGPT/GPT4 Personal ChatBOT Application](https://github.com/ambuj991/gpt3-ambBOT)
 - [Autoencoders](#)
 - [Reinforcement Learning](#)
 
