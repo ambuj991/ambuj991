@@ -1,18 +1,59 @@
-👋 Hello !! I'm Ambuj Hakhu
+# 👋 Hello! I'm Ambuj Hakhu
 
-I am a Masters in Computer Science student at Univesity of Cincinnati
+Welcome to my GitHub profile! I'm a Masters in Computer Science student at the University of Cincinnati, deeply passionate about technology and innovation. Specializing in **Machine Learning/AI development**, I focus on leveraging **Machine Learning, Deep Learning, and Natural Language Processing (NLP)** to create innovative software solutions that enhance user experiences and solve real-world problems.
 
-🚀 Software Engineer | Problem Solver | Full-Stack Developer | Cloud Enthusiast
+## 🚀 About Me
 
-Software Engineer with a strong background in Python, C++, Java, and JavaScript. I specialize in creating efficient, scalable, and innovative software solutions. I excel at problem-solving and thrive in challenging environments.
+I'm a **Machine Learning/AI Developer**, **Problem Solver**, **Full-Stack Developer**, **Cloud Enthusiast**. With a strong background in Python, C++, Java, and JavaScript, I thrive in environments that challenge my problem-solving abilities and allow me to contribute to cutting-edge software development.
 
-Key Skills:
-- ✨ Programming Languages: Python, C++, Java, JavaScript
+### Key Skills:
 
-- ☁️ Cloud Computing: Proficient in cloud technologies, including AWS, Azure, and Google Cloud Platform, enabling seamless deployment and scaling of applications.
+- ✨ **Programming Languages:** Python, C++, Java, JavaScript
+- 🤖 **Machine Learning/Deep Learning/NLP:** Profound knowledge in applying machine learning algorithms, deep learning frameworks, and natural language processing techniques.
+- 🤖 **Large Language Models (LLMs):** Experienced in integrating state-of-the-art language models (such as GPT, BERT) into applications.
+- ☁️ **Cloud Computing:** Proficient in AWS, Azure, and Google Cloud Platform, with expertise in deploying ML models and NLP applications in the cloud.
+- 🧠 **Data Structures & Algorithms:** In-depth knowledge ensuring optimal solutions.
+- 💻 **Full-Stack Development:** Expertise in both front-end and back-end development.
+- 🛠️ **Development Tools:** Proficient in various tools and frameworks.
 
-- 🧠 Data Structures & Algorithms: In-depth knowledge of data structures and algorithms, ensuring optimal solutions for complex problems.
+## 📚 Projects
 
-- 💻 Full-Stack Development: Skilled in both front-end and back-end development, creating responsive and user-friendly interfaces.
+Here are some of the projects I've been working on:
 
-- 🛠️ Development Tools: Proficient in various development tools and frameworks, enhancing productivity and code quality.
+### Machine Learning & Deep Learning
+
+- [Classification Algorithms](#)
+- [Sentiment Analysis using Machine Learning Techniques](#)
+- [Obstacle Prediction for Autonomous Vehicles](#)
+- [Regression Algorithms](#)
+- [Lidar Car Detection for Autonomous Vehicles](#)
+
+### Object Detection & Image Segmentation
+
+- [BCCD Object Detection using TensorFlow](#)
+- [Object detection for Autonomous Vehicles](#)
+- [UNet for Carvana Masking Task](#)
+- [UNet++ for Carvana Masking Task](#)
+
+### Autonomous Vehicles
+
+- [DQN with High-Level Planner for Autonomous Vehicles](#)
+- [Double DQN with High-Level Planner for Autonomous Vehicles](#)
+- [Imitation Learning for Autonomous Vehicles](#)
+- [Conditional Imitation Learning for Autonomous Vehicles](#)
+
+### Natural Language Processing & Reinforcement Learning
+
+- [Sentiment Analysis using NLP Techniques](#)
+- [Stock Market Prediction](#)
+- [GANs](#)
+- [Autoencoders](#)
+- [Reinforcement Learning](#)
+
+*(Replace `#` with the actual URLs to your projects.)*
+
+## 📫 How to Reach Me
+
+If you're interested in collaborating or just want to say hi, feel free to reach out!
+
+Thank you for visiting my profile!
