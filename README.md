@@ -51,7 +51,6 @@ Here are some of the projects I've been working on:
 - [Autoencoders](#)
 - [Reinforcement Learning](#)
 
-*(Replace `#` with the actual URLs to your projects.)*
 
 ## 📫 How to Reach Me
 
