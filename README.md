@@ -26,7 +26,7 @@ Here are some of the projects I've been working on:
 - [Sentiment Analysis using Machine Learning Techniques](#)
 - [Obstacle Prediction for Autonomous Vehicles](#)
 - [Regression Algorithms](#)
-- [Lidar Car Detection for Autonomous Vehicles](#)
+
 
 ### Object Detection & Image Segmentation
 
@@ -36,12 +36,6 @@ Here are some of the projects I've been working on:
 - [Hand Written digits recognition using neural netwroks](https://github.com/ambuj991/Handwritten-digits-classification-using-neural-network)
 - [UNet++ for Carvana Masking Task](#)
 
-### Autonomous Vehicles
-
-- [DQN with High-Level Planner for Autonomous Vehicles](#)
-- [Double DQN with High-Level Planner for Autonomous Vehicles](#)
-- [Imitation Learning for Autonomous Vehicles](#)
-- [Conditional Imitation Learning for Autonomous Vehicles](#)
 
 ### Natural Language Processing & Reinforcement Learning
 
