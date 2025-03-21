@@ -176,6 +176,131 @@ mindmap
 
 Currently a **Machine Learning Researcher** at Subconscious AI, working on next-generation AI applications that push the boundaries of what's possible.
 
+
+
+## 🛠️ Tech Stack
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" align="right">
+
+<table>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>ML Frameworks</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+      <img src="https://img.shields.io/badge/LangChain-339933?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain"/>
+      <img src="https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat-square" alt="Transformers"/>
+      <img src="https://img.shields.io/badge/NLTK-154F5B?style=flat-square" alt="NLTK"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>LLM Expertise</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Llama2-A78BFA?style=flat-square" alt="Llama2"/>
+      <img src="https://img.shields.io/badge/Mixtral-7C3AED?style=flat-square" alt="Mixtral"/>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+      <img src="https://img.shields.io/badge/DPO/RLHF-8B5CF6?style=flat-square" alt="DPO/RLHF"/>
+      <img src="https://img.shields.io/badge/RAG_Systems-2563EB?style=flat-square" alt="RAG Systems"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Cloud & Deployment</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+      <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j"/>
+      <img src="https://img.shields.io/badge/Pinecone-409040?style=flat-square" alt="Pinecone"/>
+      <img src="https://img.shields.io/badge/ChromaDB-4F46E5?style=flat-square" alt="ChromaDB"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Distributed Training</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/DeepSpeed-0078D4?style=flat-square" alt="DeepSpeed"/>
+      <img src="https://img.shields.io/badge/FSDP-2D3748?style=flat-square" alt="FSDP"/>
+      <img src="https://img.shields.io/badge/Megatron-DD0031?style=flat-square" alt="Megatron"/>
+      <img src="https://img.shields.io/badge/Multi--GPU-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="Multi-GPU Systems"/>
+    </td>
+  </tr>
+</table># <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px"> Hello World! I'm Ambuj Hakhu
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AI%20%7C%20ML%20Engineer&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=white" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI%2FML+Researcher+and+Engineer;LLM+%26+RAG+Systems+Specialist;Always+learning%2C+always+building" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ambuj-hakhu"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:hakhuaj@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"></a>
+  <a href="https://github.com/ambuj991"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://www.google.com/maps/place/Cincinnati,+OH"><img src="https://img.shields.io/badge/Location-Cincinnati,%20OH-green?style=for-the-badge&logo=google-maps" alt="Location"></a>
+</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ambuj991&color=brightgreen&style=flat-square)
+
+## 🧠 AI/ML Researcher & Engineer
+
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+
+I specialize in developing and deploying cutting-edge machine learning and AI solutions, with expertise in:
+
+```mermaid
+mindmap
+  root((AI/ML Expert))
+    (LLMs)
+      [Fine-tuning]
+      [Optimization]
+      [Deployment]
+    (RAG Systems)
+      [Knowledge Graphs]
+      [Vector Databases]
+      [Context Engineering]
+    (Deep Learning)
+      [CNNs]
+      [RNNs]
+      [Transformers]
+    (MLOps)
+      [CI/CD for ML]
+      [Model Monitoring]
+      [Infrastructure]
+    (Distributed Training)
+      [DeepSpeed]
+      [FSDP]
+      [Multi-GPU]
+```
+
+- 🤖 **Large Language Models (LLMs)** - Fine-tuning, optimization, and deployment
+- 🔄 **Retrieval-Augmented Generation (RAG)** - Building knowledge-enhanced systems
+- 🧩 **Deep Learning Architectures** - CNNs, RNNs, Transformers
+- 📊 **MLOps & Scalable Systems** - End-to-end ML pipelines and infrastructure
+- 🚀 **Distributed Training** - Multi-GPU optimization with DeepSpeed and FSDP
+- 📈 **Performance Optimization** - Quantization, KV cache, reduced precision techniques
+
+Currently a **Machine Learning Researcher** at Subconscious AI, working on next-generation AI applications that push the boundaries of what's possible.
+
 ## 🛠️ Tech Stack
 
 <table>
@@ -243,7 +368,7 @@ Currently a **Machine Learning Researcher** at Subconscious AI, working on next-
 ## 🚀 Featured Projects
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" alt="Coding">
 </div>
 
 ### 🔍 Graph-based RAG System
@@ -390,12 +515,8 @@ Currently a **Machine Learning Researcher** at Subconscious AI, working on next-
 ## 📈 LLM & ML Engineering Expertise
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
-</div>
-
-<p align="center">
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400" alt="AI Visualization">
-</p>
+</div>
 
 ```mermaid
 graph TD
@@ -420,18 +541,6 @@ graph TD
     classDef expert fill:#f9a,stroke:#333,stroke-width:2px;
     class B,C,E expert;
 ```
-
-## 💡 Latest Blog Posts
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="Writing">
-</div>
-
-<!-- BLOG-POST-LIST:START -->
-- [Fine-tuning LLMs with DPO: A Practical Guide](#)
-- [Building RAG Systems that Scale: Lessons Learned](#)
-- [Multi-GPU Training with DeepSpeed and FSDP](#)
-- [Knowledge Graphs for LLM Context Enhancement](#)
-<!-- BLOG-POST-LIST:END -->
 
 ## 📊 Weekly Development Breakdown
 <div align="center">
@@ -614,6 +723,40 @@ Other        ▒░░░░░░░░░░░░░░░░░░░░   1
   </table>
 </div>
 
+## 📫 Let's Connect!
+
+<div align="center">
+  <img src="https://media.giphy.com/media/PTBVMsYIOB0SBP4MVe/giphy.gif" width="350" alt="Connect">
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="mailto:hakhuaj@gmail.com">
+          <img width="100" height="100" src="https://img.icons8.com/clouds/100/new-post.png" alt="email"/>
+          <br>
+          <b>Email</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/ambuj-hakhu">
+          <img width="100" height="100" src="https://img.icons8.com/clouds/100/linkedin.png" alt="linkedin"/>
+          <br>
+          <b>LinkedIn</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/ambuj991">
+          <img width="100" height="100" src="https://img.icons8.com/clouds/100/github.png" alt="github"/>
+          <br>
+          <b>GitHub</b>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
 </div>
@@ -621,7 +764,6 @@ Other        ▒░░░░░░░░░░░░░░░░░░░░   1
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
   <br>
   <img src="https://img.shields.io/badge/Made%20with-❤️%20and%20☕-4C566A?style=for-the-badge" alt="Made with love and coffee"/>
