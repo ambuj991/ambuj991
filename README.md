@@ -1,53 +1,98 @@
-# 👋 Hello! I'm Ambuj Hakhu
+# 👋 Hello World! I'm Ambuj Hakhu
 
-Welcome to my GitHub profile! I'm a Masters in Computer Science student at the University of Cincinnati, deeply passionate about technology and innovation. Specializing in **Machine Learning/AI development**, I focus on leveraging **Machine Learning, Deep Learning, and Natural Language Processing (NLP)** to create innovative software solutions that enhance user experiences and solve real-world problems.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ambuj-hakhu)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:hakhuaj@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Cincinnati,%20OH-green?style=for-the-badge&logo=google-maps)](https://www.google.com/maps/place/Cincinnati,+OH)
 
-## 🚀 About Me
+## 🧠 AI/ML Researcher & Engineer
 
-I'm a **Machine Learning/AI Developer**, **Problem Solver**, **Full-Stack Developer**, **Cloud Enthusiast**. With a strong background in Python, C++, Java, and JavaScript, I thrive in environments that challenge my problem-solving abilities and allow me to contribute to cutting-edge software development.
+I specialize in developing and deploying cutting-edge machine learning and AI solutions, with expertise in:
 
-### Key Skills:
+- 🤖 **Large Language Models (LLMs)** - Fine-tuning, optimization, and deployment
+- 🔄 **Retrieval-Augmented Generation (RAG)** - Building knowledge-enhanced systems
+- 🧩 **Deep Learning Architectures** - CNNs, RNNs, Transformers
+- 📊 **MLOps & Scalable Systems** - End-to-end ML pipelines and infrastructure
 
-- ✨ **Programming Languages:** Python, C++, Java, JavaScript
-- 🤖 **Machine Learning/Deep Learning/NLP:** Profound knowledge in applying machine learning algorithms, deep learning frameworks, and natural language processing techniques.
-- 🤖 **Large Language Models (LLMs):** Experienced in integrating state-of-the-art language models (such as GPT, BERT) into applications.
-- ☁️ **Cloud Computing:** Proficient in AWS, Azure, and Google Cloud Platform, with expertise in deploying ML models and NLP applications in the cloud.
-- 🧠 **Data Structures & Algorithms:** In-depth knowledge ensuring optimal solutions.
-- 💻 **Full-Stack Development:** Expertise in both front-end and back-end development.
-- 🛠️ **Development Tools:** Proficient in various tools and frameworks.
+Currently a **Machine Learning Researcher** at Subconscious AI, working on next-generation AI applications that push the boundaries of what's possible.
 
-## 📚 Projects
+## 🛠️ Tech Stack
 
-Here are some of the projects I've been working on:
+```python
+tech_stack = {
+    "languages": ["Python", "C/C++", "JavaScript", "SQL", "Java"],
+    "ml_frameworks": ["PyTorch", "TensorFlow", "LangChain", "Transformers", "NLTK"],
+    "llm_expertise": ["Llama2", "Mixtral", "OpenAI", "DPO/RLHF", "RAG Systems"],
+    "deployment": ["AWS", "Docker", "Kubernetes", "Flask", "FastAPI"],
+    "databases": ["PostgreSQL", "MySQL", "Neo4j", "VectorDB (Pinecone, ChromaDB)"],
+    "distributed_training": ["DeepSpeed", "FSDP", "Megatron", "Multi-GPU Systems"]
+}
+```
 
-### Machine Learning & Deep Learning
+## 🔥 Featured Projects
 
-- [Classification Algorithms](#)
-- [Sentiment Analysis using Machine Learning Techniques](#)
-- [Obstacle Prediction for Autonomous Vehicles](#)
-- [Regression Algorithms](#)
+### Graph-based RAG System
+*A scalable knowledge retrieval system processing 1M+ data points*
+- Integrated Neo4j, OpenAI embeddings, and LangChain
+- Built multi-threaded pipeline for schema creation and vector indexing
+- Implemented advanced caching (LRU) and modular LLM query pipelines
 
+### [Deep Convolutional Illustration Synthesis using GANs](https://github.com/ambuj991/dcgan-anime)
+- Generated unique anime-style images from 20,000+ training samples
+- Implemented advanced GAN architecture with bilinear upsampling and minibatch discrimination
+- Created reference implementation for digital image synthesis applications
 
-### Object Detection & Image Segmentation
+### [Intent Classification and Sarcasm Detection](https://github.com/ambuj991/intent-sarcasm-detection)
+- Developed NLP system using RNNs, LSTMs, and BERT
+- Achieved 82% accuracy through model validation and performance tuning
+- Deployed as FaaS with Flask and TensorFlow
 
-- [BCCD Object Detection using TensorFlow](#)
-- [Unbalanced Dockship Image Classification](https://github.com/ambuj991/Dockship-Image-Classification/tree/main)
-- [Object detection for Autonomous Vehicles](#)
-- [Hand Written digits recognition using neural netwroks](https://github.com/ambuj991/Handwritten-digits-classification-using-neural-network)
-- [UNet++ for Carvana Masking Task](#)
+### [Text Summarization with N-gram Evaluation](https://github.com/ambuj991/weighted-ngram-summarization)
+- Fine-tuned T5 model on XSum dataset achieving 9.5% Rouge-2 F1 score
+- Improved evaluation metrics beyond traditional N-gram based methods
+- Enhanced contextual word similarity for better summary assessment
 
+## 📈 LLM & ML Engineering Expertise
 
-### Natural Language Processing & Reinforcement Learning
+```mermaid
+graph TD
+    A[LLM Ecosystem] --> B[Fine-Tuning]
+    A --> C[RAG Systems]
+    A --> D[Prompt Engineering]
+    A --> E[Optimization]
+    
+    B --> F[Instruction Tuning]
+    B --> G[DPO/RLHF]
+    
+    C --> H[Vector Databases]
+    C --> I[Knowledge Graphs]
+    
+    E --> J[KV Cache]
+    E --> K[Quantization]
+    E --> L[Multi-Query Attention]
+```
 
-- [Sentiment Analysis using NLP Techniques](https://github.com/ambuj991/Sentiment-Analysis-Model)
-- [Text Summarization Using LLMs (Meta's Llama2 and OpenAI's GPT3.5)](https://github.com/ambuj991/Text-Summarization-Model-Using-LLMs)
-- [GPT3/ChatGPT/GPT4 Personal ChatBOT Application](https://github.com/ambuj991/gpt3-ambBOT)
-- [Autoencoders](#)
-- [Reinforcement Learning](#)
+## 🎓 Education & Certifications
 
+- 🎓 **M.S. Computer Science** - University of Cincinnati (2024, GPA: 3.8/4.0)
+- 🎓 **B.Tech Electronics and Telecommunications** - SVKM's NMIMS University (2023)
+- 📜 Google Cloud Platform Machine Learning Certification
+- 📜 Certified Machine Learning & Data Scientist by Datacamp
+- 📜 Data Structures & Algorithms certified by Coursera
 
-## 📫 How to Reach Me
+## 🏆 Awards & Achievements
 
-If you're interested in collaborating or just want to say hi, feel free to reach out!
+- 🏅 GIA Scholarship for outstanding academic performance - University of Cincinnati
+- 🥈 Runner-up at Liftoff Hackathon - NMIMS University
+- 🏆 "Innovative Research Project" award - Mukesh Patel Intercollege Hackathon
 
-Thank you for visiting my profile!
+## 📫 Let's Connect!
+
+I'm always open to interesting collaborations, research opportunities, or just geeking out about the latest in AI/ML. Feel free to reach out through:
+
+- 📧 Email: [hakhuaj@gmail.com](mailto:hakhuaj@gmail.com)
+- 🔗 LinkedIn: [Connect with me](https://www.linkedin.com/in/ambuj-hakhu)
+- 🐱 GitHub: You're already here!
+
+---
+
+*"The goal is to turn data into information, and information into insight."* - Carly Fiorina
